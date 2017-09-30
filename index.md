@@ -2,15 +2,15 @@
 
 address - loud
 
-0 - 100000000000.0 Big ol doinks
+0 - 100000000000.25 Big ol doinks
 
-1 - 10.0 Big ol doinks
+1 - 10.25 Big ol doinks, 25,000 louds
 
-2 - 10.0 Big ol doinks
+2 - 10.25 Big ol doinks
 
-3 - 10.0 Big ol doinks
+3 - 10.25 Big ol doinks
 
-4 - 10.0 Big ol doinks
+4 - 9.0 Big ol doinks
 
 
 # Info
