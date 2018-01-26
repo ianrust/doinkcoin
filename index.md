@@ -2,9 +2,9 @@
 
 address - loud
 
-0 - 100000000000.0 Big ol doinks
+0 - 99999999999.0 Big ol doinks
 
-1 - 10.0 Big ol doinks
+1 - 11.0 Big ol doinks
 
 2 - 10.0 Big ol doinks
 
